@@ -1,0 +1,24 @@
+.netflix-logo-nav {
+    height: 40px;
+    width: auto;
+}
+
+.end-page {
+    text-align: center;
+    color: brown;
+}
+
+.end-page2 {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.form {
+    color: white;
+    padding-left: 1rem;
+}
+
+.background-color {
+    background-color: black;
+}
